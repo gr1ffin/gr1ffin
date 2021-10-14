@@ -10,7 +10,7 @@ What I'm working on:
 * Making a game in Unity with C#
 ***
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gr1ffin&repo=UnityTests&theme=tokyonight)](https://github.com/gr1ffin/Python-Creations)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gr1ffin&repo=Python-Creation&theme=tokyonight)](https://github.com/gr1ffin/UnityTests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gr1ffin&repo=Python-Creations&theme=tokyonight)](https://github.com/gr1ffin/UnityTests)
 ***
 
 ***
