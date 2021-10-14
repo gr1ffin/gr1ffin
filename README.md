@@ -8,8 +8,10 @@ What I'm working on:
 * Learning different Languages - Python, Java, and C#
 * Working on my create task for AP CSP (See [this](https://github.com/gr1ffin/Python-Creations/blob/main/CreateTask.py) file).
 * Making a game in Unity with C#
-
+***
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gr1ffin&repo=UnityTests&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gr1ffin&repo=Python-Creations&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+***
 
 ***
 
