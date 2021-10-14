@@ -19,4 +19,4 @@ If you want to contact me, you can message me on discord - ``griffin#1000`` or [
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gr1ffin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gr1ffin&repo=UnityTests)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gr1ffin&repo=UnityTests&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
