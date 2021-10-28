@@ -9,11 +9,6 @@ What I'm working on:
 * ~~Working on~~ Finished my create task for AP CSP. You can see the *files* [here](https://github.com/gr1ffin/MathTask/tree/main/src).
 * Making a game in Unity with C#
 ***
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gr1ffin&repo=APCSP&theme=tokyonight)](https://github.com/gr1ffin/APCSP)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gr1ffin&repo=MathTask&theme=tokyonight)](https://github.com/gr1ffin/MathTask)
-***
-
-***
 
 If you want to contact me, you can message me on discord - ``griffin#1000`` or [twitter](https://twitter.com/gr1ffinvr)
 
