@@ -6,7 +6,7 @@ I'm **griffin**.
 
 What I'm working on: 
 * Learning different Languages - Python, Java, and C#
-* ~~Working on~~ Finished my create task for AP CSP. You can see the *files* [here](https://github.com/gr1ffin/MathTask/tree/main/src).
+* ~~Working on~~ Finished my create task for AP CSP. You can see the *files* [here](https://github.com/gr1ffin/MathTask).
 * Making a game in Unity with C#
 ***
 
