@@ -1,12 +1,11 @@
-### Hi there! 👋
 
-I'm **griffin**.
 
-***
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=griffin&fontSize=90)
+
 
 What I'm working on: 
 * Learning different Languages - Python, Java, and C#
-* ~~Working on~~ Finished my create task for AP CSP. You can see the files [here](https://github.com/gr1ffin/MathTask).
+* Create task for AP CSP. You can see the files [here](https://github.com/gr1ffin/MathTask).
 * Making a game in Unity with C#
 ***
 
