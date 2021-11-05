@@ -12,20 +12,12 @@ If you want to contact me, you can message me on discord - ``griffin#1000`` or [
 
 
 ***
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gr1ffin&show_icons=true&theme=react" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gr1ffin&theme=react" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gr1ffin&theme=react&v=2&layout=compact" />
-</a>
-
-<br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr1ffin&theme=react" />
-</a>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gr1ffin&show_icons=true&title_color=c792ea&text_color=f8f8f2&bg_color=20232a&icon_color=a960ff">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gr1ffin&title_color=c792ea&text_color=f8f8f2&bg_color=20232a&icon_color=a960ff&v=2&layout=compact" />
+  <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr1ffin&title_color=c792ea&text_color=f8f8f2&bg_color=20232a&icon_color=a960ff" />
+  
+ </p>
 
 
