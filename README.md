@@ -11,7 +11,7 @@
 When I'm not doing schoolwork or programming, I'm either playing volleyball or playing Echo Arena, a virtual reality game that I compete in. You can learn more about the competitive scene [here](https://vrmasterleague.com/echoarena/). You can sometimes catch me streaming it on [my twitch](https://twitch.tv/gr1ffinvr)
 ***
 
-If you want to contact me, you can message me on discord - ``griffin#1000`` or [twitter](https://twitter.com/gr1ffinvr)
+If you want to contact me, you can message me on discord - ``griffin#1000`` or [twitter](https://twitter.com/gr1ffinvr).
 
 
 ***
