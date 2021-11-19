@@ -5,8 +5,7 @@
 ### What I'm working on: 
 * Learning different Languages - ~~Python~~, Java, and ~~C#~~
 * Create task for AP CSP. You can see the files [here](https://github.com/gr1ffin/MathTask).
-* [Echo Arena Stats recorder]((https://github.com/gr1ffin/EchoArenaStats). 
-* ~~Making a game in Unity with C#~~
+* [Echo Arena Stats recorder](https://github.com/gr1ffin/EchoArenaStats). 
 ***
 ### More About Me: 
 When I'm not doing schoolwork or programming, I'm either playing volleyball or playing Echo Arena, a virtual reality game that I compete in. You can learn more about the competitive scene [here](https://vrmasterleague.com/echoarena/). You can sometimes catch me streaming it on [my twitch](https://twitch.tv/gr1ffinvr)
