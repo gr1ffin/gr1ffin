@@ -8,7 +8,10 @@
 * [Echo Arena Stats recorder](https://github.com/gr1ffin/EchoArenaStats). 
 ***
 ### More About Me: 
-When I'm not doing schoolwork or programming, I'm either playing volleyball or playing Echo Arena, a virtual reality game that I compete in. You can sometimes catch me streaming it on [my twitch](https://twitch.tv/gr1ffinvr).
+* I compete and am a League Moderator for the Echo Arena Virtual Reality Master League.
+* Last Season (Season 4) my team finished Top 30 overall in Northern America. 
+* I also do social media work for [NEPA](https://twitter.com/EsportNepa), where I run two teams (Orlando and Los Angeles). 
+* You can sometimes catch me playing Echo Arena at my [twitch](https://twitch.tv/gr1ffinvr).
 ***
 
 If you want to contact me, you can message me on discord - ``griffin#1000`` or [twitter](https://twitter.com/gr1ffinvr).
