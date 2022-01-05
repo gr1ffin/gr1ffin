@@ -1,20 +1,19 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=griffin&fontSize=90)
 
-### Main Focus - [Echo Arena Stats recorder](https://github.com/gr1ffin/EchoArenaStats). 
 ***
-### Other things I'm working on. 
-* Learning different Languages - ~~Python~~, Java, and C#
-* Create task for AP CSP. You can see the files [here](https://github.com/gr1ffin/MathTask).
+### Active Projects
+*  [Echo Arena Stats recorder](https://github.com/gr1ffin/EchoArenaStats). 
+* Create task for AP CSP. You can see the files [here](https://github.com/gr1ffin/MathTask). *This has gone dormant, I might be making the stat recorder my class project.*
 ***
 ### More About Me: 
-* I compete in and am a League Moderator for the Echo Arena Virtual Reality Master League.
-* Last Season (Season 4) my team finished Top 30 overall in Northern America. 
-* I also do social media work for [NEPA](https://twitter.com/EsportNepa), where I run two teams (Orlando and Los Angeles). 
-* You can sometimes catch me playing Echo Arena at my [twitch](https://twitch.tv/gr1ffinvr).
+* VRML League Moderator & [NEPA](https://twitter.com/NEPAvrpro) Social Media Team
+* VRML Season 4 Rank #30
 ***
-
-If you want to contact me, you can message me on discord - ``griffin#1000`` or [twitter](https://twitter.com/gr1ffinvr).
+### Socials:
+* Discord - `griffin#2050`
+* [Twitter](https://twitter.com/gr1ffinvr) - `gr1ffinvr`
+* [Twitch](https://twitch.tv/gr1ffinvr) - `gr1ffinvr`
 
 
 ***
