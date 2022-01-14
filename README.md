@@ -7,11 +7,12 @@
 * Create task for AP CSP. You can see the files [here](https://github.com/gr1ffin/MathTask). *This has gone dormant, I might be making the stat recorder my class project.*
 ***
 ### More About Me: 
-* VRML League Moderator & [NEPA](https://twitter.com/NEPAvrpro) Social Media Team
+* [VRML](https://https://vrmasterleague.com/echoarena/) League Moderator & [NEPA](https://twitter.com/NEPAvrpro) Social Media Team
 * VRML Season 4 Rank #30
 ***
 ### Socials:
 * Discord - `griffin#2050`
+* [Discord Server](https://discord.gg/pqfsuuvfcy)
 * [Twitter](https://twitter.com/gr1ffinvr) - `gr1ffinvr`
 * [Twitch](https://twitch.tv/gr1ffinvr) - `gr1ffinvr`
 
